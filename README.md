@@ -1,5 +1,5 @@
 # AllChars
-AllChars is a tool that emulates compose key on Windows, allowing the user to input Unicode characters such as "?", "?" or "e" with relative ease.
+AllChars is a tool that emulates compose key on Windows, allowing the user to input Unicode characters such as "∀", "ε" or "è" with relative ease.
 
 This is a version with my changes, which are mostly there to allow for multi-key sequences, including sequences that output multiple characters.
 This includes changes to config format, and lack of the "try reordered" feature.
