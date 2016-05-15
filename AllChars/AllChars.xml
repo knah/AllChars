@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllChars>
+  <Version>2</Version>
+  <ComposeTable>
+    <Section name="Accents">
+      <Compose sequence="`a">à</Compose>
+      <Compose sequence="'a">á</Compose>
+      <Compose sequence="^a">â</Compose>
+      <Compose sequence="~a">ã</Compose>
+      <Compose sequence="&quot;a" htmlEntity="auml">ä</Compose>
+      <Compose sequence="oa">å</Compose>
+      <Compose sequence=",c">ç</Compose>
+      <Compose sequence="`e">è</Compose>
+      <Compose sequence="'e">é</Compose>
+      <Compose sequence="^e">ê</Compose>
+      <Compose sequence="&quot;e" htmlEntity="euml">ë</Compose>
+      <Compose sequence="`i">ì</Compose>
+      <Compose sequence="'i">í</Compose>
+      <Compose sequence="^i">î</Compose>
+      <Compose sequence="&quot;i" htmlEntity="iuml">ï</Compose>
+      <Compose sequence="~n">ñ</Compose>
+      <Compose sequence="`o">ò</Compose>
+      <Compose sequence="'o">ó</Compose>
+      <Compose sequence="^o">ô</Compose>
+      <Compose sequence="~o">õ</Compose>
+      <Compose sequence="&quot;o" htmlEntity="ouml">ö</Compose>
+      <Compose sequence="/o">ø</Compose>
+      <Compose sequence="^s">š</Compose>
+      <Compose sequence="`u">ù</Compose>
+      <Compose sequence="'u">ú</Compose>
+      <Compose sequence="^u">û</Compose>
+      <Compose sequence="&quot;u" htmlEntity="uuml">ü</Compose>
+      <Compose sequence="'y">ý</Compose>
+      <Compose sequence="&quot;y" htmlEntity="yuml">ÿ</Compose>
+      <Compose sequence="vz">ž</Compose>
+      <Compose sequence="`A">À</Compose>
+      <Compose sequence="'A">Á</Compose>
+      <Compose sequence="^A">Â</Compose>
+      <Compose sequence="~A">Ã</Compose>
+      <Compose sequence="&quot;A" htmlEntity="Auml">Ä</Compose>
+      <Compose sequence="oA">Å</Compose>
+      <Compose sequence=",C">Ç</Compose>
+      <Compose sequence="`E">È</Compose>
+      <Compose sequence="'E">É</Compose>
+      <Compose sequence="^E">Ê</Compose>
+      <Compose sequence="&quot;E" htmlEntity="Euml">Ë</Compose>
+      <Compose sequence="`I">Ì</Compose>
+      <Compose sequence="'I">Í</Compose>
+      <Compose sequence="^I">Î</Compose>
+      <Compose sequence="&quot;I" htmlEntity="Iuml">Ï</Compose>
+      <Compose sequence="~N">Ñ</Compose>
+      <Compose sequence="`O">Ò</Compose>
+      <Compose sequence="'O">Ó</Compose>
+      <Compose sequence="^O">Ô</Compose>
+      <Compose sequence="~O">Õ</Compose>
+      <Compose sequence="&quot;O" htmlEntity="Ouml">Ö</Compose>
+      <Compose sequence="/O">Ø</Compose>
+      <Compose sequence="^S">Š</Compose>
+      <Compose sequence="`U">Ù</Compose>
+      <Compose sequence="'U">Ú</Compose>
+      <Compose sequence="^U">Û</Compose>
+      <Compose sequence="&quot;U" htmlEntity="Uuml">Ü</Compose>
+      <Compose sequence="'Y">Ý</Compose>
+      <Compose sequence="&quot;Y" htmlEntity="Yuml">Ÿ</Compose>
+      <Compose sequence="vZ">Ž</Compose>
+    </Section>
+    <Section name="Accents (standalone)">
+      <Compose sequence="\'">´</Compose>
+      <Compose sequence="\^">ˆ</Compose>
+      <Compose sequence="\~">˜</Compose>
+      <Compose sequence="\&quot;">¨</Compose>
+      <Compose sequence="\,">¸</Compose>
+    </Section>
+    <Section name="Currency symbols">
+      <Compose sequence="/c">¢</Compose>
+      <Compose sequence="=e">€</Compose>
+      <Compose sequence="-f">ƒ</Compose>
+      <Compose sequence="-L">£</Compose>
+      <Compose sequence="=Y">¥</Compose>
+      <Compose sequence="cc">¢</Compose>
+      <Compose sequence="ee">€</Compose>
+      <Compose sequence="ff">ƒ</Compose>
+      <Compose sequence="LL">£</Compose>
+      <Compose sequence="YY">¥</Compose>
+      <Compose sequence="|c">¢</Compose>
+      <Compose sequence="55">€</Compose>
+    </Section>
+    <Section name="Copyright etc.">
+      <Compose sequence="TM">™</Compose>
+      <Compose sequence="OC">©</Compose>
+      <Compose sequence="OR">®</Compose>
+      <Compose sequence="cr">©</Compose>
+      <Compose sequence="rm">®</Compose>
+      <Compose sequence="OP">℗</Compose>
+      <!-- Sound recording copyright -->
+      <Compose sequence="SM">℠</Compose>
+      <!-- Service mark -->
+    </Section>
+    <!-- Section name=".Deadkeys" -->
+    <!-- .Deadkeys=`àà 'áá ^ââ ~ãã "ää `èè 'éé ^êê "ëë `ìì 'íí ^îî "ïï ~ññ `òò 'óó ^ôô ~õõ "öö ^šš `ùù 'úú ^ûû "üü 'ýý "ÿÿ `ÀÀ 'ÁÁ ^ÂÂ ~ÃÃ "ÄÄ `ÈÈ 'ÉÉ ^ÊÊ "ËË `ÌÌ 'ÍÍ ^ÎÎ "ÏÏ ~ÑÑ `ÒÒ 'ÓÓ ^ÔÔ ~ÕÕ "ÖÖ ^ŠŠ `ÙÙ 'ÚÚ ^ÛÛ "ÜÜ 'ÝÝ "ŸŸ -->
+    <!-- /Section -->
+    <Section name="Fractions">
+      <Compose sequence="/4">¼</Compose>
+      <Compose sequence="/2">½</Compose>
+      <Compose sequence="/3">¾</Compose>
+      <Compose sequence="14">¼</Compose>
+      <Compose sequence="12">½</Compose>
+      <Compose sequence="34">¾</Compose>
+      <Compose sequence="18">⅓</Compose>
+      <Compose sequence="23">⅔</Compose>
+      <Compose sequence="15">⅕</Compose>
+      <Compose sequence="25">⅖</Compose>
+      <Compose sequence="35">⅗</Compose>
+      <Compose sequence="45">⅘</Compose>
+      <Compose sequence="16">⅙</Compose>
+      <Compose sequence="56">⅚</Compose>
+      <Compose sequence="18">⅛</Compose>
+      <Compose sequence="38">⅜</Compose>
+      <Compose sequence="58">⅝</Compose>
+      <Compose sequence="78">⅞</Compose>
+      <Compose sequence="1/">⅟</Compose>
+    </Section>
+    <Section name="Ligatures">
+      <Compose sequence="AE">Æ</Compose>
+      <Compose sequence="ae">æ</Compose>
+      <Compose sequence="ss" htmlEntity="szlig">ß</Compose>
+      <Compose sequence="OE">Œ</Compose>
+      <Compose sequence="oe">œ</Compose>
+      <Compose sequence="!?">‽</Compose>
+      <!-- Interrobang -->
+      <Compose sequence="No">№</Compose>
+    </Section>
+    <Section name="Lines and Dots">
+      <Compose sequence="s-">­</Compose>
+      <Compose sequence="n-">–</Compose>
+      <Compose sequence="m-">—</Compose>
+      <Compose sequence="^_">̅</Compose>
+      <Compose sequence="-,">¬</Compose>
+      <Compose sequence="*.">•</Compose>
+      <Compose sequence="..">·</Compose>
+      <Compose sequence="2-">–</Compose>
+      <Compose sequence="3-">—</Compose>
+    </Section>
+    <Section name="Math">
+      <Compose sequence="xx">×</Compose>
+      <Compose sequence=":-">÷</Compose>
+      <Compose sequence="%0">‰</Compose>
+      <Compose sequence="+-">±</Compose>
+      <Compose sequence=",u">µ</Compose>
+      <Compose sequence="dg">°</Compose>
+      <Compose sequence="mu">µ</Compose>
+      <Compose sequence="%%">‰</Compose>
+      <Compose sequence="fa">∀</Compose>
+      <Compose sequence="ex">∃</Compose>
+      <Compose sequence="un">∪</Compose>
+      <Compose sequence="is">∩</Compose>
+      <Compose sequence="in">∈</Compose>
+      <Compose sequence="ni">∉</Compose>
+      <Compose sequence="su">⊂</Compose>
+      <Compose sequence="->">→</Compose>
+      <Compose sequence="|_">⊥</Compose>
+      <Compose sequence="=>">⇒</Compose>
+      <Compose sequence="ev">⇔</Compose>
+      <Compose sequence="o+">⊕</Compose>
+      <Compose sequence="bc">ℂ</Compose>
+      <Compose sequence="be">𝔼</Compose>
+      <Compose sequence="bh">ℍ</Compose>
+      <Compose sequence="bn">ℕ</Compose>
+      <Compose sequence="bp">ℙ</Compose>
+      <Compose sequence="bq">ℚ</Compose>
+      <Compose sequence="br">ℝ</Compose>
+      <Compose sequence="bz">ℤ</Compose>
+      <Compose sequence="tp">⊤</Compose>
+      <Compose sequence="vv">∨</Compose>
+      <Compose sequence="wd">∧</Compose>
+      <Compose sequence="ox">⊗</Compose>
+      <Compose sequence="nb">∇</Compose>
+      <Compose sequence="du">∐</Compose>
+      <Compose sequence="^P">∐</Compose>
+      <Compose sequence="!=">≠</Compose>
+      <Compose sequence="/=">≠</Compose>
+      <Compose sequence="~=">≈</Compose>
+      <Compose sequence="&lt;=">≤</Compose>
+      <Compose sequence="&gt;=">≥</Compose>
+      <Compose sequence="pd">∂</Compose>
+      <Compose sequence="|,">∫</Compose>
+      <Compose sequence="om">Ω</Compose>
+      <Compose sequence="oo">∞</Compose>
+      <Compose sequence="sr">√</Compose>
+      <Compose sequence="pi">π</Compose>
+      <Compose sequence="--">−</Compose>
+    </Section>
+    <Section name="Punctuation marks">
+      <Compose sequence="sp"> </Compose>
+      <Compose sequence="^!">¡</Compose>
+      <Compose sequence="^?">¿</Compose>
+      <Compose sequence="3.">…</Compose>
+      <Compose sequence="!!">¡</Compose>
+      <Compose sequence="??">¿</Compose>
+    </Section>
+    <Section name="Quotation marks">
+      <Compose sequence=".,">‚</Compose>
+      <Compose sequence=".`">‘</Compose>
+      <Compose sequence=".'">’</Compose>
+      <Compose sequence=",,">„</Compose>
+      <Compose sequence="``">“</Compose>
+      <Compose sequence="''">”</Compose>
+      <Compose sequence=".&lt;">‹</Compose>
+      <Compose sequence=".&gt;">›</Compose>
+      <Compose sequence="&lt;&lt;">«</Compose>
+      <Compose sequence="&gt;&gt;">»</Compose>
+    </Section>
+    <Section name="Runic (Old English)">
+      <Compose sequence="|D">Þ</Compose>
+      <Compose sequence="|d">þ</Compose>
+      <Compose sequence="-D">Ð</Compose>
+      <Compose sequence="-d">ð</Compose>
+      <Compose sequence="bp">Þ</Compose>
+      <Compose sequence="|o">þ</Compose>
+    </Section>
+    <Section name="Superscripts">
+      <Compose sequence=".a">ª</Compose>
+      <Compose sequence="dg">°</Compose>
+      <!-- degree sign U+00B0 -->
+      <Compose sequence=".o">º</Compose>
+      <!-- ordinal letter o U+00BA -->
+      <Compose sequence=".0">⁰</Compose>
+      <!-- superscript number zero U+2070 -->
+      <Compose sequence=".1">¹</Compose>
+      <Compose sequence=".2">²</Compose>
+      <Compose sequence=".3">³</Compose>
+      <Compose sequence=".4">⁴</Compose>
+      <Compose sequence=".5">⁵</Compose>
+      <Compose sequence=".6">⁶</Compose>
+      <Compose sequence=".7">⁷</Compose>
+      <Compose sequence=".8">⁸</Compose>
+      <Compose sequence=".9">⁹</Compose>
+      <Compose sequence=".+">⁺</Compose>
+      <Compose sequence=".-">⁻</Compose>
+      <Compose sequence=".=">⁼</Compose>
+      <Compose sequence=".(">⁽</Compose>
+      <Compose sequence=".)">⁾</Compose>
+      <Compose sequence=".n">ⁿ</Compose>
+      <Compose sequence="./">⁄</Compose>
+      <!-- Fraction slash -->
+    </Section>
+    <Section name="Subscripts">
+      <Compose sequence="_0">₀</Compose>
+      <Compose sequence="_1">₁</Compose>
+      <Compose sequence="_2">₂</Compose>
+      <Compose sequence="_3">₃</Compose>
+      <Compose sequence="_4">₄</Compose>
+      <Compose sequence="_5">₅</Compose>
+      <Compose sequence="_6">₆</Compose>
+      <Compose sequence="_7">₇</Compose>
+      <Compose sequence="_8">₈</Compose>
+      <Compose sequence="_9">₉</Compose>
+      <Compose sequence="_+">₊</Compose>
+      <Compose sequence="_-">₋</Compose>
+      <Compose sequence="_=">₌</Compose>
+      <Compose sequence="_(">₍</Compose>
+      <Compose sequence="_)">₎</Compose>
+    </Section>
+    <Section name="Miscellaneous">
+      <Compose sequence="os">§</Compose>
+      <Compose sequence="q|">¶</Compose>
+      <Compose sequence="+|">†</Compose>
+      <Compose sequence="++">‡</Compose>
+      <Compose sequence="xo">¤</Compose>
+      <Compose sequence="||">¦</Compose>
+      <Compose sequence="pp">§</Compose>
+    </Section>
+    <Section name="Greek (Mathematical lowercase)">
+      <Compose sequence="ga">α</Compose>
+      <Compose sequence="gb">β</Compose>
+      <Compose sequence="gg">γ</Compose>
+      <Compose sequence="gd">δ</Compose>
+      <Compose sequence="ge">ε</Compose>
+      <Compose sequence="gz">ζ</Compose>
+      <Compose sequence="gh">η</Compose>
+      <Compose sequence="th">θ</Compose>
+      <Compose sequence="gi">ι</Compose>
+      <Compose sequence="gk">κ</Compose>
+      <Compose sequence="gl">λ</Compose>
+      <Compose sequence="gm">μ</Compose>
+      <Compose sequence="gn">ν</Compose>
+      <Compose sequence="gx">ξ</Compose>
+      <Compose sequence="go">ο</Compose>
+      <Compose sequence="gp">π</Compose>
+      <Compose sequence="gr">ρ</Compose>
+      <Compose sequence="gs">σ</Compose>
+      <Compose sequence="gt">τ</Compose>
+      <Compose sequence="gu">υ</Compose>
+      <Compose sequence="gf">φ</Compose>
+      <Compose sequence="gc">χ</Compose>
+      <Compose sequence="ps">ψ</Compose>
+      <Compose sequence="gw">ω</Compose>
+    </Section>
+    <Section name="Greek (Mathematical uppercase)">
+      <Compose sequence="GA">Α</Compose>
+      <Compose sequence="GB">Β</Compose>
+      <Compose sequence="GG">Γ</Compose>
+      <Compose sequence="GD">Δ</Compose>
+      <Compose sequence="GE">Ε</Compose>
+      <Compose sequence="GZ">Ζ</Compose>
+      <Compose sequence="GH">Η</Compose>
+      <Compose sequence="TH">Θ</Compose>
+      <Compose sequence="GI">Ι</Compose>
+      <Compose sequence="GK">Κ</Compose>
+      <Compose sequence="GL">Λ</Compose>
+      <Compose sequence="GM">Μ</Compose>
+      <Compose sequence="GN">Ν</Compose>
+      <Compose sequence="GX">Ξ</Compose>
+      <Compose sequence="GO">Ο</Compose>
+      <Compose sequence="GP">Π</Compose>
+      <Compose sequence="GR">Ρ</Compose>
+      <Compose sequence="GS">Σ</Compose>
+      <Compose sequence="GT">Τ</Compose>
+      <Compose sequence="GU">Υ</Compose>
+      <Compose sequence="GF">Φ</Compose>
+      <Compose sequence="GC">Χ</Compose>
+      <Compose sequence="PS">Ψ</Compose>
+      <Compose sequence="GW">Ω</Compose>
+    </Section>
+  </ComposeTable>
+  <Configuration>
+    <Setting name="TrySwapped" bool="True" />
+    <Setting name="TryToggleCase" bool="True" />
+    <Setting name="UseBeeps" bool="True" />
+    <Setting name="TranslDecPoint" bool="False" />
+    <Setting name="UseSpeaker" bool="True" />
+    <Setting name="SendUndefined" bool="True" />
+    <Setting name="HideTaskbarIcon" bool="False" />
+    <Setting name="HotKey" key="RWin" />
+    <Setting name="MacroChar" char="/" />
+    <Setting name="MacroTimeout" int="1500" />
+    <!-- xxxMacroDelay=200 -->
+    <Setting name="UnixSemantics" bool="False" />
+  </Configuration>
+  <Ignore>
+    <WindowClass>Xming X</WindowClass>
+  </Ignore>
+</AllChars>

@@ -1,0 +1,7 @@
+*.suo
+*.sdf
+*.opensdf
+*.exe
+*.csproj.user
+AllChars/bin
+AllChars/obj
